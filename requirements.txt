@@ -19,4 +19,4 @@ tomli==2.0.1
 typing_extensions==4.1.1
 Werkzeug==2.1.1
 zipp==3.8.0
-git+https://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@github.com/EdwinZurawik/flatty@v0.0.4#egg=flatty
+git+https://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@github.com/EdwinZurawik/flatty@v0.0.5#egg=flatty
